@@ -17,6 +17,11 @@ An RSSBot in telegram similar to [https://github.com/iovxw/rssbot/](https://gith
 1. Automaticlly extract feed from page (from link tag with type such as `type="application/atom+xml"`)
 1. I18N
 
+# Deploy
+Deploy Paperplane to Heroku:
+<p align="left"><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
+
 # Commands
 
 ```
